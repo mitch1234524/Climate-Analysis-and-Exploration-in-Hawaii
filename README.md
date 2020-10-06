@@ -1,5 +1,4 @@
 # Climate Analysis and Exploration in Hawaii
-
 Data Analysis and Visualization Course
 ### Installation
 
