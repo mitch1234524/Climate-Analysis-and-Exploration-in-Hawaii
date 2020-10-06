@@ -14,6 +14,6 @@ Results of the code are in the images folder. Resources holds the CSV files and 
 ### Result
 This will generate all of the data frames and the separate visualizations giving you the precipitation analysis, stations analysis statistics and the climate app. <br/>
 ![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/12_months.PNG)<br/>
-![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/precipitation_data.PNG)<br/>
-![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/station-histogram.png)<br/>
+![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/precipitation_data.PNG)
 ![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/statistics.PNG)<br/>
+![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/station-histogram.png)<br/>
