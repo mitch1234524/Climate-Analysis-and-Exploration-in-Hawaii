@@ -13,4 +13,4 @@ Results of the code are in the images folder. Resources holds the CSV files and 
 2. Use ``` python app.py``` in command prompt to veiw all the JSON data. 
 ### Result
 This will generate all of the data frames and the separate visualizations giving you the precipitation analysis, stations analysis statistics and the climate app. 
-![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/images/12_months.png)
+![Alt text](https://github.com/mitchklee35/Climate-Analysis-and-Exploration-in-Hawaii/blob/master/images/12_months.PNG
