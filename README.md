@@ -5,7 +5,6 @@ Data Analysis and Visualization Course
 ```bash
 pip install sqlalchemy
 ```
-
 ### Function
 Use the sql alchemy engine to convert CSV file into data frames and visualize the data. 
 ### Organization
