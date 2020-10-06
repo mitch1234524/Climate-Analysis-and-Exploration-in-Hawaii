@@ -13,3 +13,4 @@ Results of the code are in the images folder. Resources holds the CSV files and 
 2. Use ``` python app.py``` in command prompt to veiw all the JSON data. 
 ### Result
 This will generate all of the data frames and the separate visualizations giving you the precipitation analysis, stations analysis statistics and the climate app. 
+![GitHub Logo](/images/12_months.png)
